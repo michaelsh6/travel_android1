@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "883658713959",
+    "firebase_url": "https://part1-travel-app.firebaseio.com",
+    "project_id": "part1-travel-app",
+    "storage_bucket": "part1-travel-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883658713959:android:a31f62ba7f1d4e59a35dc2",
+        "android_client_info": {
+          "package_name": "com.example.part1_travel_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883658713959-4ruen49jrouhtahtcmfrle88i28eiqdi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5XZMpSmaeXGnG0ecS8Efq8L0gdZw7g2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883658713959-4ruen49jrouhtahtcmfrle88i28eiqdi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
